@@ -1,0 +1,13 @@
+{   "config":{
+  "img":{
+    "bgimg":"./images/background.png",
+    "heroimg":"./images/hero.png",
+    "monsterimg":"./images/monster.png"
+  },
+  "speed":256,
+  "time":3,
+
+  "background":{"width":1080,
+    "height":536}
+}
+}
